@@ -3,7 +3,7 @@
 
 Este projeto foi desenvolvido com o objetivo de ser parâmetro de avaliação para a empresa [PontoiD](https://pontoid.com.br/home).
 
-<br/><br/>
+<br/>
 
 
 ## Rodando localmente
@@ -19,13 +19,17 @@ Entre no diretório do projeto
 ```bash
   cd my-project
 ```
+<br/>
 
 Abra o arquivo PontoId-API.sln.
 
 Antes de compilar o projeto, é necessário popular o Banco de Dados utilizando a ferramenta ORM EntityFramework Core através do comando "add-migration" seguido pelo comando "update-database", uma vez que o projeto é experimental e desenvolvido para teste.
 
+Para instalar o EFCore, siga o passo a passo [clicando aqui](https://learn.microsoft.com/pt-br/ef/core/get-started/overview/install).
+
 Feito isso, execute o projeto com o atalho "F5".
 
+<br/>
 
 ## Demonstração
 
