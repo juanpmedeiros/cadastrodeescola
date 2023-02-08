@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PontoId_API
+build_property.RootNamespace = PontoId_API
+build_property.ProjectDir = C:\Users\jpedr\Dropbox\JOBS 2023\PONTOID\cadastrodeescola\PontoId-API\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\jpedr\Dropbox\JOBS 2023\PONTOID\cadastrodeescola\PontoId-API
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Alunos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Alunos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Alunos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Alunos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Alunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Escolas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjb2xhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Escolas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjb2xhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Escolas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjb2xhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Escolas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjb2xhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Escolas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjb2xhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Turmas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Turmas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Turmas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Turmas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Turmas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jpedr/Dropbox/JOBS 2023/PONTOID/cadastrodeescola/PontoId-API/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lwwmxqkm9l

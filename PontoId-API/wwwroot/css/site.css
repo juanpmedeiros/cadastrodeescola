@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+body{
+    margin: 0px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body *{
+    box-sizing: border-box;
+}
+
+.main-cadastrar {
+    width: 100vw;
+    height: 100vh;
+    background: #201b2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-cadastrar {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.left-cadastrar-image {
+    width: 20vw;
+}
+
+.left-cadastrar > h1 {
+    font-size: 2vw;
+    color: #77ffc0;
+}
+
+.right-cadastrar {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-cadastrar > h1 {
+    font-size: 20pt;
+}
+
+.nav-item {
+    width: 10vw;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 13px;
+    background: #514869;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0px 10px 40px #00000056;
+    cursor: pointer;
+}
+
+.card-cadastrar {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #2f2841;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px #00000056;
+}
+
+.navbar-nav {
+    margin-top: 20px;
+}
+
+.card-cadastrar > h1 {
+    width: 50%;
+    padding: 16px 0px;
+    margin: 25px;
+    border-radius: 8px;
+    color: #77ffc0;
+    font-weight: 900;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.adicionar-escola {
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #77ffc0;
+    background: #2f2841;
+    text-transform: uppercase;
+}
+
+.links-tabela {
+    margin: 3px;
+    font-size: 10pt;
+    text-decoration: none;
+    cursor: pointer;
+    color: #77ffc0;
+    background: #2f2841;
+    justify-content: center;
+    align-items: center;
+    padding: 9px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.links-tabela:hover {
+    color: white;
+}
+
+@media only screen and (max-width: 1300px) {
+    .card-cadastrar {
+        width: 55%;
+    }
+
+       .nav-item {
+           width: 15vw;
+       }
+   }
+
+@media only screen and (max-width: 800px) {
+    .card-cadastrar {
+        width: 85%;
+    }
+
+    .left-cadastrar > h1 {
+        display: none;
+    }
+
+    .left-cadastrar-image {
+        width: 40vw;
+    }
+
+    .rigth-cadastrar {
+        width: 100%;
+        height: auto;
+    }
+
+    .nav-item {
+        width: 25vw;
+    }
+
+    .main-cadastrar {
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .main-cadastrar {
+        flex-direction: column;
+    }
+
+    .left-cadastrar > h1 {
+        display: none;
+    }
+
+    .left-cadastrar {
+        width: 100%;
+        height: auto;
+    }
+
+    .rigth-cadastrar {
+        width: 100%;
+        height: auto;
+    }
+
+    .card-cadastrar {
+        width: 90%;
+    }
+
+    .left-cadastrarn-image {
+        display: none;
+    }
+
+    .nav-item {
+        width: 100%;
+    }
+
+    .main-cadastrar {
+        flex-direction: column;
+    }
+}

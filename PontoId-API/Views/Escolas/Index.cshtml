@@ -1,0 +1,79 @@
+﻿@model IEnumerable<PontoId_API.Models.Escola>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<br /><br /><br />
+<div>
+    <p class="d-flex justify-content-center mb-5">
+        <a asp-action="Create" class="adicionar-escola">Adicionar Escola</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr class="m-5">
+                <th>
+                    @Html.DisplayNameFor(model => model.NomeEscola)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BairroEscola)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CidadeEscola)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EstadoEscola)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CepEscola)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ComplementoEscola)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TelefoneEscola)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LogoEscola)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NomeEscola)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BairroEscola)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CidadeEscola)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EstadoEscola)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CepEscola)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ComplementoEscola)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TelefoneEscola)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LogoEscola)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.EscolaId" class="links-tabela">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.EscolaId" class="links-tabela">Detalhes</a> |
+                        <a asp-action="Delete" asp-route-id="@item.EscolaId" class="links-tabela">Deletar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,64 @@
+﻿@model PontoId_API.Models.Escola
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="m-5">Adicionar Escola</h1>
+
+<hr />
+<div class="row m-5">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mt-2">
+                <label asp-for="NomeEscola" class="control-label"></label>
+                <input asp-for="NomeEscola" class="form-control" />
+                <span asp-validation-for="NomeEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="BairroEscola" class="control-label"></label>
+                <input asp-for="BairroEscola" class="form-control" />
+                <span asp-validation-for="BairroEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="CidadeEscola" class="control-label"></label>
+                <input asp-for="CidadeEscola" class="form-control" />
+                <span asp-validation-for="CidadeEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="EstadoEscola" class="control-label"></label>
+                <input asp-for="EstadoEscola" class="form-control" />
+                <span asp-validation-for="EstadoEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="CepEscola" class="control-label"></label>
+                <input asp-for="CepEscola" class="form-control" />
+                <span asp-validation-for="CepEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="ComplementoEscola" class="control-label"></label>
+                <input asp-for="ComplementoEscola" class="form-control" />
+                <span asp-validation-for="ComplementoEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="TelefoneEscola" class="control-label"></label>
+                <input asp-for="TelefoneEscola" class="form-control" />
+                <span asp-validation-for="TelefoneEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="LogoEscola" class="control-label"></label>
+                <input asp-for="LogoEscola" class="form-control" />
+                <span asp-validation-for="LogoEscola" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Adicionar" class="btn btn-primary mt-2" />
+                <a asp-action="Index" class="btn btn-primary mt-2">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
