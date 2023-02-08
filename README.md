@@ -13,7 +13,16 @@ Antes de compilar o projeto, é necessário popular o Banco de Dados utilizando 
 
 ## Demonstração
 
-<img width="1028" alt="home" src="https://user-images.githubusercontent.com/85249954/217522697-5f402596-5da5-4209-a268-c9ab640fe1c2.png">
+<img width="971" alt="home" src="https://user-images.githubusercontent.com/85249954/217523959-722a90e2-9491-4022-bbcc-d3a3793eb11a.png">
+
+<img width="971" alt="cadastrar-escola" src="https://user-images.githubusercontent.com/85249954/217523975-c22b0b53-2cd4-4ed8-8a09-4d2b2e13c37b.png">
+
+<img width="971" alt="editar-escola" src="https://user-images.githubusercontent.com/85249954/217523990-d42e5dce-8b74-4982-bc58-bfbb661df867.png">
+
+<img width="971" alt="detalhes-escola" src="https://user-images.githubusercontent.com/85249954/217524005-69c77c2e-68d4-409e-bd77-8e6efaaaf25a.png">
+
+<img width="971" alt="deletar-escola" src="https://user-images.githubusercontent.com/85249954/217524018-97c29b16-e7f7-4021-801a-61c28f75b1cb.png">
+
 
 <br/>
 
@@ -26,13 +35,16 @@ Antes de compilar o projeto, é necessário popular o Banco de Dados utilizando 
     
 </div><br/><br/>
 
-## 🚀 Sobre mim
-Graduado em Comunicação Social - Hab. Publicidade e Propaganda pelo Centro Universitário de Goiás Uni-ANHANGUERA em 2013, com pós-graduação da Universidade Federal de Goiás em Gestão de Marketing e Análise de Consumo.
-Trabalho com design gráfico e web desde 2010 em agências de propaganda de Goiânia e como freelancer para clientes dos mais variados segmentos.
+## Importante! ⚠️
 
-Atualmente estudando linguagem de programação.
+Por ser um projeto de teste CRUD, o UX/UI e Front-End não foi aplicado em toda a aplicação, foi utilizado somente na tela de cadastro de Escola.
+
 <br/><br/>
 
-## Autor deste projeto
+## 🚀 Sobre mim
+Graduado em Comunicação Social - Hab. Publicidade e Propaganda pelo Centro Universitário de Goiás Uni-ANHANGUERA em 2013, com pós-graduação da Universidade Federal de Goiás. Trabalhei com Design Gráfico e Web desde 2010 em agências de propaganda de Goiânia e como freelancer para clientes dos mais variados segmentos.
 
-- [@dicasparadevs](https://www.instagram.com/dicasparadevs/)
+Atualmente estudando Análise e Desenvolvimento de Sistemas pela PUC-GO.
+<br/><br/>
+
+
