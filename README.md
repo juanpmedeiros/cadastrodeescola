@@ -6,7 +6,32 @@ Este projeto foi desenvolvido com o objetivo de ser parâmetro de avaliação pa
 <br/><br/>
 
 
-## Utilização
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
+```
+
 
 Antes de compilar o projeto, é necessário popular o Banco de Dados utilizando a ferramenta ORM EntityFramework Core através do comando "add-migration" seguido pelo comando "update-database", uma vez que o projeto é experimental e desenvolvido para teste.
 
