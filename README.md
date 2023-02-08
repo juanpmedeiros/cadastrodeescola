@@ -20,20 +20,11 @@ Entre no diretório do projeto
   cd my-project
 ```
 
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run start
-```
-
+Abra o arquivo PontoId-API.sln.
 
 Antes de compilar o projeto, é necessário popular o Banco de Dados utilizando a ferramenta ORM EntityFramework Core através do comando "add-migration" seguido pelo comando "update-database", uma vez que o projeto é experimental e desenvolvido para teste.
+
+Feito isso, execute o projeto com o atalho "F5".
 
 
 ## Demonstração
